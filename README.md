@@ -1,2 +1,3 @@
-# Data-Analysis-Portfolio
-This is my portfolio of data analysis projects.
+# vedema.github.io
+
+Week 0 setup completed by Vivian Edema
